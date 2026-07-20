@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /auth
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /exam/
+
+Sitemap: https://www.eggheadielts.com/sitemap.xml
